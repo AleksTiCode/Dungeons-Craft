@@ -1,0 +1,373 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "Dungeons Craft",
+  "summary": "This modpack changes your world and adds buildings, mobs, items and block types from Minecraft Dungeons to it.",
+  "files": [
+    {
+      "path": "mods/GeckoLibOculusCompat-Forge-1.0.1.jar",
+      "hashes": {
+        "sha1": "d5c91ae0cfade2672bf00628721da661a59930c5",
+        "sha512": "12c17477ad82bad2d80348732ee1e0d19cf1b68ca64527a251af46e664a8a5473bfba4262441d5bb0b5ff2b5f515df4387d4fce327d5906e3c3d073eb9bd9652"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TbriQCWD/versions/uWXuMaW4/GeckoLibOculusCompat-Forge-1.0.1.jar"
+      ],
+      "fileSize": 6239
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.3.3+1.20.4.jar",
+      "hashes": {
+        "sha1": "f3a9a180b6cb062bc6604fe2ec27e11b38c990e5",
+        "sha512": "4f64d2eb6780ac31d3e9865922e37844494ea96416aea71f7e3a87b57b1eb97e44d7f11f30d6fef8603de99c6250a34a8f7c44e499ab62c8f961006224b16411"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/abfWjwdT/ImmediatelyFast-Forge-1.3.3%2B1.20.4.jar"
+      ],
+      "fileSize": 449097
+    },
+    {
+      "path": "mods/bettercombat-forge-1.8.6+1.20.1.jar",
+      "hashes": {
+        "sha1": "70c20cd81a4051b2ad4289ff6522e80b397d7b3d",
+        "sha512": "24b3acd2b1ff3e24b2828ec003bcf2f5af7b4556be728996ddc8bdca3244bb92e91ef76f3c1bc10a15a5e59cd80b388f4994097fd258aadcb7abb7f3bd6959c3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5sy6g3kz/versions/UjlaL0Fm/bettercombat-forge-1.8.6%2B1.20.1.jar"
+      ],
+      "fileSize": 1050118
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "hashes": {
+        "sha512": "137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef",
+        "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar"
+      ],
+      "fileSize": 1181413
+    },
+    {
+      "path": "mods/dungeons_1.18_mc1.20.1.jar",
+      "hashes": {
+        "sha512": "8b35859fa9d04ef3e441282b68a72d23afc6647a222c790e63fdaf66f49d48d74b805da6537dfb78a0350f0f78aa2cc2896f50571aeb14920a0b5f5b63e332b6",
+        "sha1": "a0d24cb33c6cfce60095a14adff86ef93fb45278"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/R0ToJjk1/versions/UucQmp9v/dungeons_1.18_mc1.20.1.jar"
+      ],
+      "fileSize": 49012714
+    },
+    {
+      "path": "mods/dynamic-fps-3.7.7+minecraft-1.20.0-forge.jar",
+      "hashes": {
+        "sha1": "b11e38d9a3fdd40ceb962b51d9b782e1e4f5664c",
+        "sha512": "0f39b1b83dfaa14a86dea93f723a8f54de82780f3575844349fc30acd185ac077856c381a072031fee7baf4f5dcaeaa6f21e898cbb4d2dff87d0b68309bf4e9f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RWJOhJC6/dynamic-fps-3.7.7%2Bminecraft-1.20.0-forge.jar"
+      ],
+      "fileSize": 342609
+    },
+    {
+      "path": "mods/elytra_physics-forge-2.1_mc1.19.3-1.20.4.jar",
+      "hashes": {
+        "sha1": "c63c704d48e39d6303304b0a0af9c16ccbf63191",
+        "sha512": "9277210965930c022784638b3ab7ae8987133a12bc90bcd178478c59115f3d4a46ce90b6570065f6944c18881c279b686cb06e30b7d971d7acbac4301b9cfd73"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jfvCMH0K/versions/bKktSqKA/elytra_physics-forge-2.1_mc1.19.3-1.20.4.jar"
+      ],
+      "fileSize": 618558
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "hashes": {
+        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1320675
+    },
+    {
+      "path": "mods/embeddiumplus-1.20.1-v1.2.13.jar",
+      "hashes": {
+        "sha1": "d922515ae0f16af2afdddfd72243a4890a2c7ad8",
+        "sha512": "2ea60376eecaf859b3303d46cc8b593e3121ce5487f97db2a60ec0025327ae740c9d28fb5523fcae32da0a3de010e5f1b59024c1cfa9f1547116668ac04de278"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yD9qW65f/versions/KEd4eJfk/embeddiumplus-1.20.1-v1.2.13.jar"
+      ],
+      "fileSize": 895427
+    },
+    {
+      "path": "mods/entity_model_features_forge_1.20.1-2.4.1.jar",
+      "hashes": {
+        "sha1": "2ed40fd0bf3266e67036e5b3857da84c24b045e1",
+        "sha512": "f6160617baabb494226d09687aed23e0cdc6de42122d1c6b038ef733990cabc2aff62b6b1e91eb42236e9e0b952dcf1cdc42c323d823f41a0e5c285f831dce65"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/p39UPPar/entity_model_features_forge_1.20.1-2.4.1.jar"
+      ],
+      "fileSize": 445642
+    },
+    {
+      "path": "mods/entity_texture_features_forge_1.20.1-6.2.9.jar",
+      "hashes": {
+        "sha512": "0d8576c785c689aa39c29f8dbee46b28c308a01a87eaa01a1d405c617b7a30be5ba1e62faeb5f212e44d50ae5a230e48815ac572adaba0c6d3a9e2df47183023",
+        "sha1": "55c8a7db3b4ddd28485c4d2bab7381a756b771c6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/rGt1IuJq/entity_texture_features_forge_1.20.1-6.2.9.jar"
+      ],
+      "fileSize": 676887
+    },
+    {
+      "path": "mods/entityculling-forge-1.7.2-mc1.20.1.jar",
+      "hashes": {
+        "sha512": "547ecae13eb982c2c43c2f107fccede69b2edd33a3005296fd880122760f569c98e42a3abb7d69526ebe79efb6846bad38ee8a1bb7e8afa62e18e5e052029647",
+        "sha1": "fafd5e44573df4b7842243fcfcb05dfbd85ad5e5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/yyU9Ifp0/entityculling-forge-1.7.2-mc1.20.1.jar"
+      ],
+      "fileSize": 73584
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "hashes": {
+        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+      ],
+      "fileSize": 123034
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.7.jar",
+      "hashes": {
+        "sha1": "451226923e02ac708b8fe59d75a2f9a28cc7e467",
+        "sha512": "4efd2d70533d73fc70012b0969bac9fb6035a4ebcc8b6ccb692321456bcc044da93a12b44392fca3c607889c134acd41db9e0fed376151a46d5391c56881a149"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar"
+      ],
+      "fileSize": 1004043
+    },
+    {
+      "path": "mods/mcdungeonsMusic_v1_FORGE_1_20_1.jar",
+      "hashes": {
+        "sha512": "b0eb5abb1f5387812063a789a00e40279a7c4d65186a5e67bdd6fe97660da7b03a5820d1e818b00af0c82492933148e9569b6f417fd88b42015355bb9c56f240",
+        "sha1": "5dab4575d8ffacab9e0004d55bf63ea9d8bdcee0"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1TAcMnh2/versions/vsNnKxHj/mcdungeonsMusic_v1_FORGE_1_20_1.jar"
+      ],
+      "fileSize": 11676547
+    },
+    {
+      "path": "mods/mobhealthbar-forge-1.20.x-2.3.0.jar",
+      "hashes": {
+        "sha1": "ced8ae0775e0bb079bae13b761c0e7ad33090f33",
+        "sha512": "7a2b501a7d3cb1e7473f83eaf9a534fa754424c418f0a752f2b4d5608178fb9a33e2fba9ab9ca062832d7f0a46591501769d45cb4d346e12ee592270ea711f9b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/wtk2r10e/versions/M4NQZuns/mobhealthbar-forge-1.20.x-2.3.0.jar"
+      ],
+      "fileSize": 113521
+    },
+    {
+      "path": "mods/modernfix-forge-5.20.0+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "89077671ba67dbf454d59bc9863e9548a5543fef",
+        "sha512": "040ce2b57d6536b51d55123d68a63a71c3370195f695a875cbd3b45f7ef5678ae0274a09c1a343dd8236e99eef299143d6466c44408d1bd7766dc2e353c20473"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/tLSzIfcj/modernfix-forge-5.20.0%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 786751
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "hashes": {
+        "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+        "sha512": "1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259e9e157111d9ce21779badab386029956f7d2283a9e611722a373e9d5"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar"
+      ],
+      "fileSize": 2851119
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "hashes": {
+        "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+        "sha512": "cb9f6a3aaa943823a85fdd716ddb3c7623af2b3520926c3a98d170c52d31908894808fb61c52bea39bae622dbab59d50b4bad56f7ca0533a9c3350d412c33729"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+      ],
+      "fileSize": 181437
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.8.jar",
+      "hashes": {
+        "sha512": "30b3443e6e677619c68ec63600f58bc7abf14c9f2242dbc16f7e59d26592a14f39c3b29dbfd759d9de62550153823792d7549e4d5c3838575f297339090ad1e7",
+        "sha1": "e391696f49028a4d118b5e5895d3f0f696b97644"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qyVF9oeo/versions/O13IgRhY/sound-physics-remastered-forge-1.20.1-1.4.8.jar"
+      ],
+      "fileSize": 197075
+    },
+    {
+      "path": "resourcepacks/Dungeons Hotbar.zip",
+      "hashes": {
+        "sha1": "1a39b7c981f919fb0c5f688258396beb262279fb",
+        "sha512": "9d939d14b22a37c03f56e82f3fcb1ca71673a52ae0c29460183bad831ff6246a1c9f61262a7627c74a824888801c34c3f5debc505bc901a66a897e2b71340407"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/amnC9ixV/versions/D6oPETP7/Dungeons%20Hotbar.zip"
+      ],
+      "fileSize": 349480
+    },
+    {
+      "path": "resourcepacks/Fresh-Dungeons-1.20.1.zip",
+      "hashes": {
+        "sha512": "da5ab05dd3d6b9044a08cc8b44197090bf664534e019e13b615fef983a25dbd142f2d81a09f14ada5913ee8b510fcfc6cf83d4c49e50b18eeb200b2ab67a245a",
+        "sha1": "3d56408d3e0e6af67ab3e2de3e821ec6a93a70ac"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6v2vo8CL/versions/Lrsy32qn/Fresh-Dungeons-1.20.1.zip"
+      ],
+      "fileSize": 556660
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.9.2.zip",
+      "hashes": {
+        "sha512": "97a387112a5a94b0e7f4d0d2439977a9f28579303ad883ed3d0fcc3277357f8b3ab2418960f698d1a5f435903e0b2f82716fc92f8500cac090f900b2d2135dcf",
+        "sha1": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
+      ],
+      "fileSize": 516256
+    },
+    {
+      "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
+      "hashes": {
+        "sha1": "9831e55480e806139b316701abfbecab517fdc95",
+        "sha512": "5781ce1d502f1d34325160e8fae511ec64322b6fcdb209c16a2e29a7f76fc38a21c276aeaedb85e593b331f7588847148a118f803c5343eca06863ce8de27a4d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iHC8BZn4/versions/u7oNAXa5/Hysteria-Shaders-Universal-v1.2.1.zip"
+      ],
+      "fileSize": 1578052
+    }
+  ],
+  "dependencies": {
+    "forge": "47.3.22",
+    "minecraft": "1.20.1"
+  }
+}
